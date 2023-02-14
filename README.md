@@ -25,4 +25,6 @@ In Terminal 2:
 
 >click the Children 1 Button
 
-At this point, only module federation is working.
+**The branch demo the mat-select is working**
+
+![image](https://user-images.githubusercontent.com/57814572/218829692-bab831af-6f6c-4931-ad09-3410cb6a84da.png)
