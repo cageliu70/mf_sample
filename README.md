@@ -25,4 +25,6 @@ In Terminal 2:
 
 >click the Children 1 Button
 
-At this point, only module federation is working.
+Demo Bootstrap d-flex.
+
+![image](https://user-images.githubusercontent.com/57814572/218910954-0ec1fb4a-e411-4f70-93c9-9622fd2d59bc.png)
